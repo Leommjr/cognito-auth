@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "aws.region",
+      "type": "java.lang.String",
+      "description": "Description for aws.region."
+    },
+    {
+      "name": "CLIENT_ID",
+      "type": "java.lang.String",
+      "description": "Description for CLIENT_ID."
+    }
+  ] }
